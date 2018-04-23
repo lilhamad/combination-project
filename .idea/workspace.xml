@@ -111,6 +111,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -349,7 +352,7 @@
       <workItem from="1524315182406" duration="5337000" />
       <workItem from="1524356341804" duration="1332000" />
       <workItem from="1524480060913" duration="1589000" />
-      <workItem from="1524501171888" duration="13700000" />
+      <workItem from="1524501171888" duration="13898000" />
     </task>
     <task id="LOCAL-00001" summary="Work all done each specimen now have A and B , it can pic the intersection among all specimen result">
       <created>1524515557483</created>
@@ -379,11 +382,18 @@
       <option name="project" value="LOCAL" />
       <updated>1524517498754</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Merge branch 'master' of https://github.com/lilhamad/combination-project&#10;&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit.&#10;">
+      <created>1524517505123</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1524517505123</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89425000" />
+    <option name="totallyTimeSpent" value="89623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1616" height="886" extended-state="6" />
