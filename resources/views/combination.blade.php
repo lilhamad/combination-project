@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
     <link rel="stylesheet" href="{{url('css/font-awesome.css')}}">
-    <link rel="stylesheet" href="{{url('css/style.css')}}">
     <link rel="stylesheet" href="{{url('bootstrap/css/bootstrap.min.css')}}">
+    <link rel="stylesheet" href="{{url('css/style.css')}}">
     <script src="{{url('js/jquery.min.js')}}"></script>
     <script>
         //my-js

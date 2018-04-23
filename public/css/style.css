@@ -19,8 +19,8 @@
     animation: spin 2s linear infinite;
 }
 hr {
-    margin-top: 2px!important;
-    margin-bottom: 10px!important;
+    margin-top: 1px!important;
+    margin-bottom: 1px!important;
 }
 @keyframes spin{
     0%{transform: rotate(0deg);}
@@ -29,4 +29,29 @@ hr {
 
 .item_spacing{
     padding-right: 30px;
+}
+h6{
+    margin-top: 1px !important;
+    margin-bottom: 1px !important;
+}
+input[type=text]{
+    height: 20px!important;
+    margin-bottom: 2px;
+}
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    padding: 0!important;
+    border-top: 0!important;
+}
+body {
+    font-family:Helvetica,Arial,sans-serif !important;
+    font-size: 13px!important;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1 {
+    position: relative;
+    min-height: 1px;
+     padding-right: 4px!important;
+     padding-left: 4px!important;
 }

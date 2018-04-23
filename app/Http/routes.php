@@ -18,7 +18,7 @@ Route::get('/', function () {
 Route::get('/index', function () {
     return view('index');
 });
-Route::get('/combination', function () {
-    return view('combination');
+Route::get('/combination2', function () {
+    return view('combination2');
 });
 
