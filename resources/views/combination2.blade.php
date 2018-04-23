@@ -340,7 +340,7 @@
     </div>
     <br>
     <input type="submit" onclick="add_more_specimen();" class="btn btn-success btn-sm" value="+ specimen">
-    <input type="submit" onclick="remaining();" class="btn btn-primary pull-right btn-sm" value="Original data - all specimen">
+    <input type="submit" onclick="remaining();" class="btn btn-primary pull-right btn-sm" value="Generate all.">
     {{--<button type="button" onclick="add_more_specime" class="btn btn-primary">Add<i class="fa fa-plus"></i> </button>--}}
     <h4>Results</h4>
     <hr>
